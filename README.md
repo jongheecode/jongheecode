@@ -16,7 +16,7 @@
 </div>
 
 <br/>
-
+![snake gif](https://github.com/jongheecode/jongheecode/blob/output/github-contribution-grid-snake.svg)
 ## 🖥 Tech Stack
 
 **Backend**
