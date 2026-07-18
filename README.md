@@ -10,6 +10,13 @@
 
 <br/>
 
+<!-- ===== 잔디 스네이크 (Actions가 자동 생성) ===== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jongheecode/jongheecode/output/snake-dark.svg" alt="snake animation"/>
+</div>
+
+<br/>
+
 ## 🖥 Tech Stack
 
 **Backend**
