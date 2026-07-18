@@ -71,10 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jongheecode&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jongheecode&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy"/>
-</div>
-
 <br/>
 
 <!-- ===== 하단 배너 ===== -->
