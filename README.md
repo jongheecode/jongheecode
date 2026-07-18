@@ -62,10 +62,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jongheecode&show_icons=true&hide_border=true&count_private=true&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongheecode&layout=compact&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="170"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jongheecode&hide_border=true&background=0d1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" height="170"/>
