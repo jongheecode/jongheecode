@@ -10,11 +10,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jongheecode&show_icons=true&hide_border=true&count_private=true&theme=nord&hide=prs,issues&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongheecode&layout=compact&hide_border=true&theme=nord&langs_count=6&cache_seconds=1800" height="165"/>
-
-<br/><br/>
-
 <img src="https://github.com/jongheecode/jongheecode/raw/output/snake.svg" alt="snake animation"/>
 
 </div>
