@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=jongheecode&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 **Backend Developer · Kotlin / Spring Boot**
-운영까지 보이는 서비스를 만듭니다
 
 <br/>
 
